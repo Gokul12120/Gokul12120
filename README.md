@@ -181,23 +181,3 @@ I use GitHub to document my learning journey, build practical projects, and expe
 <p align="center">
 <strong>Learn. Build. Deploy. Secure. 🚀</strong>
 </p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/gokul-m-121b31285/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-
-<a href="https://instagram.com/__0goku0__" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<strong>Learn. Build. Deploy. Secure. 🚀</strong>
-</p>
