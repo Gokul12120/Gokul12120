@@ -158,18 +158,28 @@ A hands-on cloud security project focused on identity, access management, monito
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gokul12120&show_icons=true&locale=en" alt="Gokul's GitHub stats" />
+I use GitHub to document my learning journey, build practical projects, and experiment with Cloud, DevOps, and security technologies.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gokul-m-121b31285/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<a href="https://instagram.com/__0goku0__" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+</a>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul12120&show_icons=true&locale=en&layout=compact" alt="Gokul's Top Languages" />
-</p>
+---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul12120" alt="Gokul's GitHub Streak" />
+<strong>Learn. Build. Deploy. Secure. 🚀</strong>
 </p>
 
 ---
