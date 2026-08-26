@@ -134,28 +134,31 @@ My projects will focus on:
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Current Projects
 
-🚧 **Currently building my Cloud & DevOps portfolio.**
+### 🔨 Project 1 — Cloud-Deployed Python Application
 
-### Project 1 — Cloud-Deployed Python Application
+**Status:** 🟡 In Progress
 
-**Python → Docker → AWS → CI/CD**
+Python → Docker → AWS → CI/CD
 
-A practical application deployment project focused on understanding the complete development-to-production workflow.
+Building a Python application and learning the complete development-to-production workflow using containerization, cloud deployment, and CI/CD.
 
-### Project 2 — DevSecOps CI/CD Pipeline
+### 🔐 Project 2 — DevSecOps CI/CD Pipeline
 
-**GitHub → CI/CD → Security Scanning → Docker → Deployment**
+**Status:** 🔵 Planned
 
-A pipeline demonstrating automated testing, security checks, containerization, and deployment.
+GitHub → CI/CD → Security Scanning → Docker → Deployment
 
-### Project 3 — AWS Cloud Security Environment
+A future project focused on integrating security practices into the software delivery pipeline.
 
-**AWS → IAM → Logging → Monitoring → Security Controls**
+### 🛡️ Project 3 — AWS Cloud Security Environment
 
-A hands-on cloud security project focused on identity, access management, monitoring, and security practices.
+**Status:** 🔵 Planned
 
+AWS → IAM → Logging → Monitoring → Security Controls
+
+A future hands-on project focused on AWS identity, access management, monitoring, and cloud security.
 ---
 
 ## 📈 GitHub Activity
